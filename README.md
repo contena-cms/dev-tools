@@ -24,4 +24,4 @@ If you would like to contribute to this package, please fork the repository and 
 
 ## License
 
-This package is licensed under the MIT license. See the LICENSE file for more information.
+This package is licensed under the Apache-2.0 license. See the LICENSE file for more information; the upstream license is bundled in the NOTICE file.
